@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="250" alt="Netflix Logo">
 </p>
+<p style="border-top: 3px solid red; width:300%;"></p>
 
 ---
 
